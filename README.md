@@ -1,6 +1,5 @@
 📊 Sales Analytics Dashboard | Power BI Project
 📌 Project Overview
-
 This project presents an interactive Sales Analytics Dashboard developed using Microsoft Power BI.
 
 The dashboard transforms raw sales data into meaningful business insights through interactive visualizations and KPI reporting.
@@ -12,14 +11,13 @@ Monthly sales trends
 Country-wise sales distribution
 Product-wise box sales
 🖥️ Dashboard Preview
-
 !Sales Analytics Dashboard
 
 📈 Key Performance Indicators (KPIs)
+
 KPI	Value
 Total Sales Amount	866.08K
 Total Boxes Sold	78K
-
 Note: Values are based on the dashboard screenshot.
 
 🚀 Dashboard Features
@@ -51,6 +49,7 @@ Microsoft Excel
 Data Cleaning and Transformation
 Data Visualization
 📁 Project Structure
+
 text
 Sales-Analytics-PowerBI-Dashboard/
 │
@@ -58,9 +57,7 @@ Sales-Analytics-PowerBI-Dashboard/
 ├── Sales Dashboard.pbix
 ├── dashboard-preview.png
 └── README.md
-
 💡 Business Insights
-
 This dashboard helps users:
 
 Monitor overall sales performance.
@@ -75,17 +72,14 @@ If required, update the dataset connection.
 Refresh the data.
 Explore the interactive dashboard and visualizations.
 🎯 Project Objective
-
 The main objective is to demonstrate practical skills in data analytics, data visualization, business intelligence, and Power BI dashboard development.
 
 👩‍💻 Author
-
 Manisha Gaikwad
 
 Aspiring Data Analyst | Power BI | SQL | Excel | Data Visualization
 
 ⭐ Acknowledgements
-
 This project was created for learning and portfolio development purposes.
 
 If you find this project useful, feel free to explore and connect!
